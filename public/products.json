@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "title": "Sleek Smartphone",
+      "profile_img": "https://i.ibb.co/98m4hFr/portrait-young-woman-using-mobile-phone-1048944-30344856.jpg",
+      "features": ["Water-resistant", "32GB Storage", "4GB RAM"],
+      "thumbnail_img": "https://i.ibb.co/z7dT0Rf/download.jpg",
+      "description": "A sleek and durable smartphone with ample storage and memory.",
+      "made_in": "Japan"
+    },
+    {
+      "id": "2",
+      "title": "4K Smart TV",
+      "profile_img": "https://i.ibb.co/QkvtVYx/lifestyle-beautiful-asian-business-young-woman-using-laptop-computer-smart-phone-office-desk-1150-10.jpg",
+      "features": ["4K Resolution", "Smart TV", "55 inches"],
+      "thumbnail_img": "https://i.ibb.co/74jTR8y/Smart-Home-Entertainment-HZ-ts.jpg",
+      "description": "A stunning 55-inch Smart TV with ultra HD resolution.",
+      "made_in": "South Korea"
+    },
+    {
+      "id": "3",
+      "title": "Wireless Headphones",
+      "profile_img": "https://i.ibb.co/HzGtZnW/selective-focus-young-man-handshake-with-someone-office-1150-15532.jpg",
+      "features": ["Noise Cancelling", "Bluetooth", "20 Hours Battery Life"],
+      "thumbnail_img": "https://i.ibb.co/7XF5MNd/images-1.jpg",
+      "description": "Wireless headphones with exceptional noise cancellation and long battery life.",
+      "made_in": "Germany"
+    },
+    {
+      "id": "4",
+      "title": "Stainless Steel Cookware Set",
+      "profile_img": "https://i.ibb.co/DGs7rbf/business-colleagues-working-together-1150-2861.jpg",
+      "features": ["Stainless Steel", "10-piece Set", "Dishwasher Safe"],
+      "thumbnail_img": "https://i.ibb.co/6PqP9wy/bastille-waterless-stainless-steel-set-of-8-4309-794485-1-jpg-720x720q80.jpg",
+      "description": "A premium 10-piece stainless steel cookware set, perfect for all your cooking needs.",
+      "made_in": "USA"
+    },
+    {
+      "id": "5",
+      "title": "Organic Cotton T-Shirts",
+      "profile_img": "https://i.ibb.co/DGs7rbf/business-colleagues-working-together-1150-2861.jpg",
+      "features": ["Organic Cotton", "Eco-Friendly Dyes", "Unisex"],
+      "thumbnail_img": "https://i.ibb.co/xf1TJWG/file-9a28b5eab8-original.webp",
+      "description": "Comfortable and stylish organic cotton t-shirts available in various colors.",
+      "made_in": "India"
+    },
+    {
+      "id": "6",
+      "title": "Versatile Blender",
+      "profile_img": "https://i.ibb.co/sJhCsqN/portrait-woman-customer-service-worker-144627-37948.jpg",
+      "features": ["Multifunctional", "10-Speed Settings", "BPA Free"],
+      "thumbnail_img": "https://i.ibb.co/vHSp5SZ/cdad4e1767f7f95993ebc6afcd301a13472cdf11.webp",
+      "description": "A powerful and versatile blender with multiple speed settings.",
+      "made_in": "China"
+    },
+    {
+      "id": "7",
+      "title": "Lightweight Fishing Rod",
+      "profile_img": "https://i.ibb.co/5YCCgS8/happy-asian-boss-manager-business-man-wears-black-suit-relax-pose-264197-15946.jpg",
+      "features": ["Lightweight", "High Sensitivity", "Rechargeable Battery"],
+      "thumbnail_img": "https://i.ibb.co/9n6vZzL/sddefault.jpg",
+      "description": "An ultra-lightweight and highly sensitive fishing rod with a rechargeable battery for enhanced performance.",
+      "made_in": "Australia"
+    },
+    {
+      "id": "8",
+      "title": "Efficient Washing Machine",
+      "profile_img": "https://i.ibb.co/2KDqymt/young-collage-student-using-computer-mobile-device-studying-online-education-online-learning-1421-45.jpg",
+      "features": ["Automatic", "Eco Mode", "Large Capacity"],
+      "thumbnail_img": "https://i.ibb.co/Q6DGn84/thumbnail-best-washing-machine-my-ti.jpg",
+      "description": "A highly efficient and automatic washing machine with eco-friendly mode and large capacity.",
+      "made_in": "Italy"
+    },
+    {
+      "id": "9",
+      "title": "Ergonomic Office Chair",
+      "profile_img": "https://i.ibb.co/fFs0jt6/young-man-writing-notebook-during-study-session-23-2149285403.jpg",
+      "features": ["Ergonomic Design", "Adjustable Height", "Mesh Back"],
+      "thumbnail_img": "https://i.ibb.co/0jRDPPL/thumbnail-product-ergonomic-chair-EZCARAY-High-Back-Ergonomi-Offic-Chair-ti-1024x678.png",
+      "description": "A comfortable and ergonomically designed office chair with adjustable height and breathable mesh back.",
+      "made_in": "Canada"
+    },
+    {
+      "id": "10",
+      "title": "Interactive Play Mat",
+      "profile_img": "https://i.ibb.co/zXMFwxF/smiling-asian-muslim-student-girl-isolated-yellow-background-861453-227.jpg",
+      "features": ["Non-Toxic", "Easy to Clean", "Interactive"],
+      "thumbnail_img": "https://i.ibb.co/FKF4CC0/smart-watch.jpg",
+      "description": "An interactive and non-toxic play mat for kids, easy to clean and safe for all ages.",
+      "made_in": "Brazil"
+    }
+  ]
+  
